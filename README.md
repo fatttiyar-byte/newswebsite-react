@@ -64,6 +64,3 @@ Built with **React** and powered by **Vite**, it focuses on performance, reusabi
 ---
 
 
-
-# 4. Start the dev server
-npm run dev
